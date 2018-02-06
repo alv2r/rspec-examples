@@ -45,7 +45,7 @@ end
 $ rspec
 
 # Running an specific example
-$ rspec my_example_spec_rb
+$ rspec my_example_spec.rb
 ```
 
 The implementation of these tests in detail can be found [here](https://www.tutorialspoint.com/rspec/index.htm).
