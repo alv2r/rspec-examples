@@ -1,3 +1,4 @@
+# -- Error matchers -- #
 describe "an example of the error matchers" do
 
   it "should show how the error matchers work" do

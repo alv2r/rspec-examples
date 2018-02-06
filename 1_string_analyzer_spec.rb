@@ -1,4 +1,5 @@
-require './string_analyzer'
+# -- Testing the class example -- #
+require './lib/string_analyzer'
 
 describe StringAnalyzer do
   context "with valid input" do

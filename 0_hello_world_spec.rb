@@ -1,3 +1,4 @@
+# -- Basic example -- #
 class HelloWorld
   def say_hello
     "Hello World!"
